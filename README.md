@@ -15,6 +15,7 @@
     - API Rest
 
 ### Rodar o Projeto
+```npm install``` Instalar todas as dependências
 ```node server.js``` Execução do projeto </br>
 ```node --watch server.js``` Atualização automática do projeto
 
